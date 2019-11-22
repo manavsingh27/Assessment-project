@@ -10,15 +10,14 @@
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2JYEU9dovUOgwzFsR6O7MDWoZgqOzyty06A9O2ojmVBNW2qp");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 670px;
+  height: 750px;
 }
 .searchContainer {
   margin-top: 200px;
   border: 1px solid white;
   border-radius:15px;
-  box-shadow: 8px 6px white;
   padding:50px;
-  background: gray;
+  background: #ddd;
 }
 .prof {
   background: #1f2021;
